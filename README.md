@@ -1,7 +1,11 @@
 # URL-Analyzer
 Displays Sub domains, Tech stacks, Open ports with in single Request
 
---------------------SAMPLE OUTPUT---------------------
+
+
+---------------------------SAMPLE OUTPUT-----------------------------
+
+
 
 === URL Analysis and Enumeration Tool ===
 Enter URL (e.g., https://example.com): https://example.com

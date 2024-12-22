@@ -8,6 +8,7 @@ Displays Sub domains, Tech stacks, Open ports with in single Request
 
 
 === URL Analysis and Enumeration Tool ===
+
 Enter URL (e.g., https://example.com): https://example.com
 
 [*] Discovering subdomains for: example.com

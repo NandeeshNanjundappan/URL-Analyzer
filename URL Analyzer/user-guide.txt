@@ -1,0 +1,15 @@
+----------1.Install Required Modules: Install the necessary dependencies:
+
+pip install requests beautifulsoup4
+
+----------2.Run the Script: Execute the script in the terminal:
+
+python url-analyzer.py
+
+----------3.Provide URL Input:
+
+Enter URL (e.g., https://example.com): https://example.com
+
+----------4.View Results:
+
+Subdomains, tech stack, and open ports will be displayed directly in the terminal.
